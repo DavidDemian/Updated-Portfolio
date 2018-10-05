@@ -3,7 +3,7 @@ body{
     height: 100%;
     margin: 0;
     font-family: Arial;
-    background-image: url('/assets/background.jpg');
+    background-image: url('./background.jpg');
     background-size: cover;
   }
   
