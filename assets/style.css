@@ -1,0 +1,58 @@
+
+body{
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+    background-image: url('/assets/background.jpg');
+    background-size: cover;
+  }
+  
+  
+  .tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 33.33%;
+    transition: all 1s;
+  }
+  
+  .tablink:hover {
+    background-color: #777;
+  }
+  
+
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+
+  .title{
+    font-family: 'Bree Serif', serif;
+
+  }
+  .body1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 400px
+
+  }
+  #image{
+    width: 200px
+  }
+
+.tittle{
+  font-family: 'Bree Serif', serif;
+}
+
+.pa{
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px
+}
